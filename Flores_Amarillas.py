@@ -4,10 +4,10 @@ import pygame
 
 pygame.mixer.init()
 
-sound = pygame.mixer.Sound('pygame_proyectos/flores amarillas.mp3') 
+sound = pygame.mixer.Sound('flores amarillas.mp3') 
 sound.play()
 
-header_text = "Feliz Primavera"
+header_text = "Feliz Primavera, gorda puta"
 color("white")
 penup()
 goto(-180, 250)
